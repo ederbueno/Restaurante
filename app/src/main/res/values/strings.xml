@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Restaurante</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="OR">OR</string>
+    <string name="name">Name</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="restaurant">Restaurante</string>
+    <string name="address">Av. Lavandisca, 717 - Indianópolis, São Paulo\"</string>
+    <string name="hour">Fecha às 00:00</string>
+
 </resources>

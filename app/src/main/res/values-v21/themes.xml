@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyEditTextTheme">
+        <item name="android:textColorHint">#8492A6</item>
+        <item name="android:textColorPrimary">#3F51B5</item>
+        <item name="android:backgroundTint">#C0CCDA</item>
+        <item name="colorControlActivated">#8492A6</item>
+    </style>
+</resources>
